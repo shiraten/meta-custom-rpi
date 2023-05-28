@@ -9,4 +9,6 @@ IMAGE_INSTALL += " \
     hello-world \
     blink-test \
     pwm-test \
+    ldd-hello-world \
+    mymodules-autoload \
     "

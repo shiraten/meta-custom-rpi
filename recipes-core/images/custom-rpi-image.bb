@@ -9,4 +9,8 @@ IMAGE_INSTALL += " \
     hello-world \
     blink-test \
     pwm-test \
+    bmp280 \
+	i2c-tools \
+	mpu9250 \
+	test-gy-91 \
     "
